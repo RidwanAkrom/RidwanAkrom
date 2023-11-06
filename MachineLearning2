@@ -1,0 +1,7 @@
+import pandas as pd 
+data = pd.read_csv('Tabel1.csv')
+data 
+Tabungan = data['Tabungan']
+Tabungan
+
+
